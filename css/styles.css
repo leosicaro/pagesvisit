@@ -1,0 +1,20 @@
+
+body{
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container{
+    border: 5px solid red;
+    
+    justify-content: center;
+
+}
+.content{
+    border: 2px solid purple;
+    justify-content: center
+    
+}
+/* mejorar css*/
